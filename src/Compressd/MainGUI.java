@@ -135,7 +135,7 @@ public class MainGUI extends JFrame {
                 new ActionListener() {
                     @Override
                     public void actionPerformed(ActionEvent e) {
-                        JOptionPane.showMessageDialog(null, "网络编程作业三\n可以对文件以及文件夹进行压缩，但因为各种原因，没有解压缩功能；采用了Java的swing来创建交互界面;\n关于：\n网络201张进华\nemail:2006200014@e.gzhu.edu.cn\nGithub:\nhttps://github.com/myli0724/Encrypt");
+                        JOptionPane.showMessageDialog(null, "网络编程作业三\n可以对文件以及文件夹进行压缩，但因为各种原因，没有解压缩功能；采用了Java的swing来创建交互界面;\n关于：\n网络201张进华\nemail:2006200014@e.gzhu.edu.cn\nGithub:\nhttps://github.com/myli0724/homework03-14");
                     }
                 }
         );
